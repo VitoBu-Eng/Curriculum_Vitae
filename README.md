@@ -7,6 +7,8 @@ This repository is a technical portfolio collecting my projects in computational
 1. [**Finite Element Projects:**](#finite-element-projects)
 1. [**Work in progress activities:**](#work-in-progress-activities
 )
+1. [**Publications:**](#publications)
+
 ## About me:
 I'm a Biomedical Engineer specialising in Biomechanics, with a background in experimental testing for material characterisation and constitutive modelling of polymers, as well as soft and hard biological tissues.  
 My research focuses on numerical modelling of the mechanical behaviour of materials, and I am constantly working to enhance my skills in Finite Element Analysis (FEA).  
@@ -21,3 +23,4 @@ I am also part of the [**T-SURE project**](https://biomast.polito.it/t-sure/)  (
 
 ## Work in progress activities:
 
+## Publications
