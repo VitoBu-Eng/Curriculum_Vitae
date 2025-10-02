@@ -4,8 +4,8 @@ This repository is a technical portfolio collecting my projects in computational
 
 **Table of Contents:**
 1. [**About me:**](#about-me)
-1. **To be defined:**
-1. **To be defined:**
+1. **Finite Element Projects:**
+1. **Work in progress activities:**
 
 ## About me:
 I'm a Biomedical Engineer specialising in Biomechanics, with a background in experimental testing for material characterisation and constitutive modelling of polymers, as well as soft and hard biological tissues.  
@@ -16,5 +16,7 @@ I have been working at the [**BIOMAST Lab**](https://biomast.polito.it/) (Bio-Ma
 I am actively involved in the [**T-REMEDIE project**](https://www.eurekaventure.it/portfolio/the-t-rem3die-politecnico-di-torino) (Tendon REpair MEdical DevIcE) project, developed at Politecnico di Torino, which won the Eureka! Proof of Concept (250k) and the Ancalau Award. T-REMEDIE is an innovative biocompatible and biodegradable device for tendon repair.
 I am also part of the [**T-SURE project**](https://biomast.polito.it/t-sure/)  (Tissue SUrgical REpair) project, an innovative device for abdominal hernia repair.  
 
+## Finite Element Projects:
 
+## Work in progress activities:
 
