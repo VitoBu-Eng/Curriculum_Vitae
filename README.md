@@ -1,7 +1,12 @@
 # Curriculum Vitae
-Hi, I'm Vito Burgio, a Ph.D. student in *Structural and Solid Mechanics* at Politecnico di Torino.
+Hi, I'm **Vito Burgio**, Freelance Biomedical Engineer and Ph.D. Candidate at Politecnico di Torino (DISEG) with a thesis titled **MECHANICAL CHARACTERISATION AND CONSTITUTIVE MODELLING OF SOFT TISSUES AND BIORESORBABLE POLYMERS FOR BIOMEDICAL APPLICATIONS**. 
+I am currently finalising my PhD, with my defence scheduled for May/June 2026.
 This repository is a technical portfolio collecting my projects in computational mechanics and numerical modelling, carried out during my academic journey.
- 
+
+Currently operating as a **Freelance Engineer**.
+
+Let’s connect or reach out for collaboration opportunities.
+
 ![Descrizione immagine](images/My_research_activities.png)
 
 **Table of Contents:**
@@ -13,13 +18,20 @@ This repository is a technical portfolio collecting my projects in computational
     1. [**Conference papers:**](#conference-papers)
 
 ## About me:
-I'm a Biomedical Engineer specialising in Biomechanics, with a background in experimental testing for material characterisation and constitutive modelling of polymers, as well as soft and hard biological tissues.  
-My research focuses on numerical modelling of the mechanical behaviour of materials, and I am constantly working to enhance my skills in Finite Element Analysis (FEA).  
-Accurate material modelling requires a comprehensive understanding of its mechanical behaviour, which can only be achieved through experimental testing. Over the years, I have both reviewed the relevant research literature and performed a wide range of experiments to investigate material responses under different conditions.  
+I'm a Biomedical Engineer specialising in Biomechanics, with a background in experimental testing for material characterisation and constitutive modelling and Finite Element Analysis (FEA) of polymers, as well as soft and hard biological tissues.
+Throughout my academic career, my work focused on accurately simulating material behaviour by integrating experimental data with advanced numerical methods.
+During my PhD research at the [**BIOMAST Lab**](https://biomast.polito.it/) (Bio-Materials and Structures) Lab, I focused on the mechanical characterisation of soft tissues and polymers. 
+My research aimed to develop numerical models of human and animal body parts, enabling in-depth investigations of orthopaedic problems that pose a challenge in medical treatment and care.  
+
+Accurate material modelling requires a comprehensive understanding of its mechanical behaviour, which can only be achieved through experimental testing. Over the years, I have both reviewed the relevant research literature and performed a wide range of experiments to investigate material responses under different conditions.
+
 Parallel to these activities, I possess advanced skills in CAD and 3D printing.
-I have been working at the [**BIOMAST Lab**](https://biomast.polito.it/) (Bio-Materials and Structures) Lab, where my research focuses on developing numerical models of human and animal body parts, enabling in-depth investigations of orthopaedic problems that present challenges in medical treatment and care.  
-I am actively involved in the [**T-REMEDIE project**](https://www.eurekaventure.it/portfolio/the-t-rem3die-politecnico-di-torino) (Tendon REpair MEdical DevIcE) project, developed at Politecnico di Torino, which won the Eureka! Proof of Concept (250k) and the Ancalau Award. T-REMEDIE is an innovative biocompatible and biodegradable device for tendon repair.
-I am also part of the [**T-SURE project**](https://biomast.polito.it/t-sure/)  (Tissue SUrgical REpair) project, an innovative device for abdominal hernia repair.  
+
+I was a Core Team Member of the [**T-REMEDIE project**](https://www.eurekaventure.it/portfolio/the-t-rem3die-politecnico-di-torino) (Tendon REpair MEdical DevIcE) project. I contributed to securing approximately 400k € in funding and winning the Eureka! Proof of Concept (250k €) and Ancalau awards.
+T-REMEDIE is an innovative biocompatible and biodegradable device for tendon repair.
+
+I am also a co-inventor of the [**T-SURE project**](https://biomast.polito.it/t-sure/) (Tissue SUrgical REpair) device for abdominal hernia repair. The project was the winner of the Spark Innovation Contest and was funded by a Compagnia di San Paolo Proof of Concept grant.
+T-SURE is an innovative biocompatible and biodegradable device that rethinks the standard surgical procedure for abdominal hernia repair.
 
 ## Finite Element Projects:
 
@@ -40,6 +52,7 @@ A collection of my scientific articles and conference papers related to computat
 [Research Gate](https://www.researchgate.net/profile/Vito-Burgio-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 
 ### Journal papers:
+1. [Constitutive Modelling of Tendons as Fibre-Reinforced Soft Tissues with a Single Fibre Family: Stress-Relaxation Tests for Parameter Identification](https://www.mdpi.com/2076-3417/16/1/447?utm_source=researchgate.net&utm_medium=article)
 1. [Mechanical Characterization and Constitutive Modelling of Commercial Biopolymers and Their Blends for Biomedical Applications](https://www.sciencedirect.com/science/article/pii/S1751616125003212?via%3Dihub)
 1. [Mechanical Stapling Devices for Soft Tissue Repair: A Review of Commercially Available Linear, Linear Cutting, and Circular Staplers](https://www.mdpi.com/2076-3417/14/6/2486)
 1. [Mechanical properties of animal ligaments: a review and comparative study for the identification of the most suitable human ligament surrogates](https://link.springer.com/article/10.1007/s10237-023-01718-1)
