@@ -19,7 +19,6 @@ Let’s connect or reach out for collaboration opportunities.
 
 ## About me:
 I'm a Biomedical Engineer specialising in Biomechanics, with a background in experimental testing for material characterisation and constitutive modelling and Finite Element Analysis (FEA) of polymers, as well as soft and hard biological tissues.
-Throughout my academic career, my work focused on accurately simulating material behaviour by integrating experimental data with advanced numerical methods.
 During my PhD research at the [**BIOMAST Lab**](https://biomast.polito.it/) (Bio-Materials and Structures) Lab, I focused on the mechanical characterisation of soft tissues and polymers. 
 My research aimed to develop numerical models of human and animal body parts, enabling in-depth investigations of orthopaedic problems that pose a challenge in medical treatment and care.  
 
