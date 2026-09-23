@@ -1,6 +1,6 @@
 # Curriculum Vitae
-Hi, I'm **Vito Burgio**, Freelance Biomedical Engineer and Ph.D. Candidate at Politecnico di Torino (DISEG) with a thesis titled **MECHANICAL CHARACTERISATION AND CONSTITUTIVE MODELLING OF SOFT TISSUES AND BIORESORBABLE POLYMERS FOR BIOMEDICAL APPLICATIONS**.  
-I am currently finalising my PhD, with my defence scheduled for May/June 2026.  
+Hi, I'm **Vito Burgio PhD**, Freelance Biomedical Engineer.  
+I successfully completed my PhD with a thesis titled **MECHANICAL CHARACTERISATION AND CONSTITUTIVE MODELLING OF SOFT TISSUES AND BIORESORBABLE POLYMERS FOR BIOMEDICAL APPLICATIONS**.  
 
 This repository collects all the different activities that I carried out during my academic journey.  
 In particular, this document (*README_CV*) reports my projects in computational mechanics and numerical modelling using the ANSYS software and my publications.  
